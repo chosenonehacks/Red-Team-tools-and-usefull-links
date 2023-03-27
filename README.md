@@ -1,9 +1,13 @@
 # Red-Team-tools-and-usefull-links
 
 https://codebeautify.org/ntlm-hash-generator
+
 https://github.com/CaledoniaProject/awesome-opensource-security
+
 https://github.com/swisskyrepo/PayloadsAllTheThings
+
 https://github.com/bigb0sss/RedTeam-OffensiveSecurity
+
 
 
 
@@ -308,6 +312,8 @@ Azure - https://t.co/cmp9S57KIT
 
 Multi Cloud - https://t.co/scg2JWeNQ7
 Multi Cloud - https://t.co/bFP7b1j0yS
+
+https://github.com/CyberSecurityUP/Cloud-Security-Attacks
 
 # AD 
 
