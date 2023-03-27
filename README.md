@@ -13,7 +13,11 @@ https://github.com/bigb0sss/RedTeam-OffensiveSecurity
 
 https://github.com/chosenonehacks/awesome-pentest-cheat-sheets
 
+# AI 
 
+https://github.com/greshake/llm-security
+
+https://github.com/jiep/offensive-ai-compilation
 
 
 # EXPLOITS (no binaries) and useful tactics & techniques & tools 
@@ -286,7 +290,6 @@ BruteShark is a Network Forensic Analysis Tool (NFAT) https://github.com/odedshi
 
 # Cloud 
 
-<<MULTI_CLOUD_RED_TEAM_PT_1_1647414749 (1).pdf>>
 
 https://cloudbrothers.info/en/azure-dominance-paths/  
 AzureRT - A Powershell module implementing various Azure Red Team tactics: https://github.com/mgeeky/AzureRT
@@ -349,3 +352,6 @@ https://github.com/Ciphey/Ciphey
 
 # Lab
 https://github.com/splunk/attack_range
+
+# dorks 
+https://github.com/TakSec/google-dorks-bug-bounty
