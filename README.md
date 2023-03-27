@@ -341,3 +341,6 @@ https://github.com/0xOverflow/RedTeam-Physical-Tools
 
 # decryption/decoding/cracking
 https://github.com/Ciphey/Ciphey
+
+# Lab
+https://github.com/splunk/attack_range
