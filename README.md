@@ -1,6 +1,9 @@
 # Red-Team-tools-and-usefull-links
 
-https://codebeautify.org/ntlm-hash-generator
+
+# Other complations
+
+https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
 
 https://github.com/CaledoniaProject/awesome-opensource-security
 
@@ -69,6 +72,7 @@ Fast deployment small HTTP/HTTPS sever with auto TLS cert: https://github.com/8i
 Cherry-Tree pentest template: https://github.com/CyberSecurityUP/Template-CherryTree-PenTest 
 https://github.com/byt3bl33d3r/CrackMapExec https://mpgn.gitbook.io/crackmapexec/ 
 XSS: https://github.com/t3l3machus/toxssin
+https://codebeautify.org/ntlm-hash-generator
  
 
 # Scanning & Enumeration 
