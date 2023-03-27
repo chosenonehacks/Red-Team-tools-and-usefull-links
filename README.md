@@ -11,6 +11,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 
 https://github.com/bigb0sss/RedTeam-OffensiveSecurity
 
+https://github.com/chosenonehacks/awesome-pentest-cheat-sheets
 
 
 
